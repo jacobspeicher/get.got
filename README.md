@@ -1,5 +1,5 @@
 # get.got
 a search engine for goats
 
--- Jacob Speicher
+-- Jacob Speicher  
 -- Connor Griffin
